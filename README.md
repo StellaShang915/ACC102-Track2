@@ -28,12 +28,12 @@ Based on the historical data analysis, the following insights were generated:
 ## 5. How to run
 1. Ensure you have Python 3 installed.
 2. Install necessary libraries: `pip install pandas matplotlib`
-3. Open `notebook.ipynb` in Jupyter Lab or Notebook.
+3. Open `ACC102(1).ipynb` in Jupyter Lab or Notebook.
 4. Run all cells to generate the summary statistics and charts.
 
 ## 6. Product link / Demo
-- **Demo Video:** [Insert Link to your Loom/Video submission here]
-- **Notebook:** See `notebook.ipynb` for the full code implementation.
+- **Demo Video:** https://b23.tv/Qp9z4hG
+- **Notebook:** See 'ACC102(1).ipynb` for the full code implementation.
 
 ## 7. Limitations & next steps
 - **Limitations:** The current model assumes historical volatility is a perfect predictor of future risk, which may not always hold true during "black swan" events. The dataset is limited to [2010-2022].
