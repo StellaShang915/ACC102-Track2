@@ -32,6 +32,7 @@ Based on the historical data analysis, the following insights were generated:
 4. Run all cells to generate the summary statistics and charts.
 
 ## 6. Product link / Demo
+- **Github Repository:**https://github.com/StellaShang915/ACC102-Track2
 - **Demo Video:** https://b23.tv/Qp9z4hG
 - **Notebook:** See 'ACC102(1).ipynb` for the full code implementation.
 
